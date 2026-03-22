@@ -14,7 +14,7 @@
 - [Utilisation](#utilisation)
 - [Structure du Projet](#structure-du-projet)
 - [Contribuer](#contribuer)
-- [Licence](#licence)
+
 
 ## 📖 Description
 Gestion des Commandes est une application web développée avec **Laravel**  pour la gestion complète des commandes clients. Elle permet de gérer les clients, produits, commandes (avec détails), suivi historique des modifications des commandes via événements/listeners, et tableaux de bord statistiques.
